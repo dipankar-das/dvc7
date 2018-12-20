@@ -1,12 +1,1 @@
-"Id","IsDeleted","Name","CurrencyIsoCode","CreatedDate","CreatedById","SBQQ__Rule__c","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__ParentRuleIsActive__c","SBQQ__RuleTargetsCalculator__c","SBQQ__TestedFormula__c","SBQQ__TestedVariable__c","SBQQ__Value__c"
-"a0U1N00000BXzqaUAD","false","21","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGuCUAX","EditLinesFieldSetName__c",,"Value",,,"Quote","equals","true","true",,,"Standard"
-"a0U1N00000BXzqbUAD","false","22","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGuCUAX","SBQQ__ProductFamily__c",,"Value",,,"Quote Line","equals","true","true",,,"Hardware"
-"a0U1N00000BXzqcUAD","false","23","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGuCUAX","SwitchedToCost__c",,"Value",,,"Quote","equals","true","true",,,"true"
-"a0U1N00000BXzqdUAD","false","24","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGu9UAH",,,"Value",,"4.0","Summary Variable","greater than","true","false",,"a0s1N000006gdY2QAI","1"
-"a0U1N00000BXzqTUAT","false","2","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGu9UAH","OSKUProduct_Line__c",,"Value",,"1.0","Product Option","equals","true","false",,,"Power Cables"
-"a0U1N00000BXzqUUAT","false","3","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGu9UAH","OSKUProduct_Line__c",,"Value",,"2.0","Product Option","equals","true","false",,,"Operating System"
-"a0U1N00000BXzqVUAT","false","4","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGu9UAH","Product Code",,"Value",,"3.0","Product Option","not equals","true","false",,,"CONFIG NOSW"
-"a0U1N00000BXzqWUAT","false","7","USD","2018-01-17T14:35:50.000Z","0051N000005nWuFQAU","a0V1N00000DHGu7UAH","Product Code",,"Value",,,"Quote Line","not equals","true","true",,,
-"a0U1N00000BXzqXUAT","false","18","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGuBUAX","EditLinesFieldSetName__c",,"Value",,,"Quote","equals","true","true",,,"Cost"
-"a0U1N00000BXzqYUAT","false","19","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGuBUAX","SBQQ__ProductFamily__c",,"Value",,,"Quote Line","equals","true","true",,,"Hardware"
-"a0U1N00000BXzqZUAT","false","20","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","a0V1N00000DHGuBUAX","SwitchedToCost__c",,"Value",,,"Quote","equals","true","true",,,"false"
+"Records not found for this query"

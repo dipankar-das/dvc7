@@ -1,8 +1,1 @@
-"Id","OwnerId","IsDeleted","Name","CurrencyIsoCode","CreatedDate","CreatedById","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__Product__c","SBQQ__TargetObject__c","Test_Text__c"
-"a0V1N00000DHGu7UAH","0051N000005nWuFQAU","false","Set Approval Threshold By Product Family","USD","2018-01-17T14:35:50.000Z","0051N000005nWuFQAU","true",,"All",,"On Calculate","1.0","Discount_Tier__c",,"Calculator",
-"a0V1N00000DHGu8UAH","0051N000005nWuXQAU","false","Set Professional Service Role Rates","USD","2018-01-17T14:35:50.000Z","0051N000005nWuXQAU","true",,"All",,"On Calculate","1.0","Professional_Services_Rate__c",,"Calculator",
-"a0V1N00000DHGu9UAH","0051N000005nWuFQAU","false","Set Power Cable and Server Quantity","USD","2018-01-17T14:35:50.000Z","0051N000005nWuFQAU","true","(1 AND 4) OR (2 AND 3 AND 4)","Custom","Edit","On Initialization;Before Calculate;On Calculate;After Calculate","1.0",,,"Configurator",
-"a0V1N00000DHGuAUAX","0051N000005nWuFQAU","false","Set Cost on quote","USD","2018-01-17T14:35:50.000Z","0051N000005nWuFQAU","true",,"All",,"On Calculate","1.0",,,"Calculator",
-"a0V1N00000DHGuBUAX","0051N000005nWuQQAU","false","Set Pricing Method to Cost for Hardware Lines","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","true",,"All",,"On Initialization;Before Calculate;On Calculate;After Calculate",,,,"Calculator",
-"a0V1N00000DHGuCUAX","0051N000005nWuQQAU","false","Set Pricing Method to List for Hardware Lines","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","true",,"All",,"On Initialization;Before Calculate;On Calculate;After Calculate",,,,"Calculator",
-"a0V1N00000DHGuDUAX","0051N000005nWuQQAU","false","Set Approval Level","USD","2018-01-17T14:35:50.000Z","0051N000005nWuQQAU","true",,"All",,"On Initialization;On Calculate;After Calculate",,,,"Calculator",
+"Records not found for this query"
