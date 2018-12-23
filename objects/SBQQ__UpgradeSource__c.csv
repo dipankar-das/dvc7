@@ -1,2 +1,2 @@
-"Id","OwnerId","IsDeleted","Name","CurrencyIsoCode","CreatedDate","CreatedById","SBQQ__SourceProduct__c","SBQQ__UpgradeProduct__c","SBQQ__UpgradeConversionRate__c"
-"a0y1N000003zLlWQAU","0051N000005nWuLQAU","false","Dell Upgrade","USD","2018-01-17T14:35:50.000Z","0051N000005nWuLQAU","01t1N00000EURLrQAP",,
+"Id","IsDeleted","Name","CurrencyIsoCode","SBQQ__SourceProduct__c","SBQQ__UpgradeProduct__c","SBQQ__UpgradeConversionRate__c"
+"a0y1N000003zLlWQAU","false","Dell Upgrade","USD","01t1N00000EURLrQAP",,
